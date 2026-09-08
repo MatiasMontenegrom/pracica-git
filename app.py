@@ -1,6 +1,5 @@
 def saludar():
     print("Hola desde Codespaces")
-
 def despedir():
     print("Chau mundo")
 
